@@ -28,7 +28,7 @@ In this project, we are required to use the Robot 5 rover in order to mimic the 
 # Main Highlights
 This project was recognized for the following:
 - The rover was operating accurately without the need of encoders for the motors
-- It was cost effecient (e.g., instead of using Voltage Shifters, we employed built-in ADC modules)
+- It was cost efficient (e.g., instead of using Voltage Shifters, we employed built-in ADC modules)
 - The ball detection system was real-time and resulted in the shortest fetching time amongst all participants (This project fetched the ball in 12 seconds  while the second fastest project fetched the ball in 25 seconds). 
 
 ## License
